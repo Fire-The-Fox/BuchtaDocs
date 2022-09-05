@@ -1,0 +1,9 @@
+{
+    "webRootPath"   : "./public",
+    "cacheRootPath" : "./.cache",
+    "imports": {
+        "svelte": "https://cdn.skypack.dev/svelte@latest",
+        "svelte/transition": "https://cdn.skypack.dev/svelte@latest/transition",
+        "svelte/internal": "https://cdn.skypack.dev/svelte@latest/internal"
+    }
+}
